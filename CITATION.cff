@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Wu"
+    given-names: "Xingjian"
+  - family-names: "Liu"
+    given-names: "Xvyuan"
+  - family-names: "Lu"
+    given-names: "Junkai"
+  - family-names: "Wang"
+    given-names: "Siyuan"
+  - family-names: "Qiu"
+    given-names: "Xiangfei"
+  - family-names: "Shu"
+    given-names: "Yang"
+  - family-names: "Hu"
+    given-names: "Jilin"
+  - family-names: "Guo"
+    given-names: "Chenjuan"
+  - family-names: "Yang"
+    given-names: "Bin"
+title: "ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/yourusername/STEVO"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Wu"
+      given-names: "Xingjian"
+    - family-names: "Liu"
+      given-names: "Xvyuan"
+    - family-names: "Lu"
+      given-names: "Junkai"
+    - family-names: "Wang"
+      given-names: "Siyuan"
+    - family-names: "Qiu"
+      given-names: "Xiangfei"
+    - family-names: "Shu"
+      given-names: "Yang"
+    - family-names: "Hu"
+      given-names: "Jilin"
+    - family-names: "Guo"
+      given-names: "Chenjuan"
+    - family-names: "Yang"
+      given-names: "Bin"
+  title: "ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies"
+  year: 2026
+  conference:
+    name: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  url: "https://arxiv.org/pdf/2602.14681"
