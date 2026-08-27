@@ -1,0 +1,10 @@
+#! /bin/bash
+
+python ./experiments/run_multiarith.py \
+      --mode FullConnected \
+      --llm_name openai/gpt-oss-120b \
+      --batch_size 4 \
+      --agent_nums 4 \
+      --num_iterations 10 \
+      --num_rounds 3 \
+      --optimized_spatial
