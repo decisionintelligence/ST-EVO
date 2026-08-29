@@ -267,7 +267,7 @@ We welcome contributions! Please feel free to submit issues and pull requests.
 
 For questions or collaboration opportunities, please contact:
 
-- [Xingjian Wu](https://ccloud0525.github.io/)
+- [Xingjian Wu](https://ccloud0525.github.io/) ([xjwu@stu.ecnu.edu.cn](mailto:xjwu@stu.ecnu.edu.cn))
 
 ---
 
